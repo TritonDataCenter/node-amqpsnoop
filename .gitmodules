@@ -1,0 +1,6 @@
+[submodule "deps/node-getopt"]
+	path = deps/node-getopt
+	url = git://github.com/davepacheco/node-getopt.git
+[submodule "deps/node-amqp"]
+	path = deps/node-amqp
+	url = git://github.com/postwait/node-amqp.git
