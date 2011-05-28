@@ -1,0 +1,19 @@
+{
+	"name": "amqpsnoop",
+	"description": "snoop AMQP messages",
+	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/davepacheco/node-amqpsnoop.git"
+	},
+	"author": "Dave Pacheco <dap@cs.brown.edu>",
+	"engines": { "node": "*" },
+	"bin": {
+		"amqpsnoop": "./lib/amqpsnoop.js"
+	},
+	"keywords": ["amqp", "snoop", "command", "tool"],
+	"dependencies": {
+		"posix-getopt": ">=0.0.1",
+		"amqp": ">=0.0.6"
+	}
+}
