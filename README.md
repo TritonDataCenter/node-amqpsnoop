@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/davepacheco/node-amqpsnoop.png)](http://travis-ci.org/davepacheco/node-amqpsnoop)
 node-amqpsnoop v0.0.1
 ==============
 
