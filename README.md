@@ -1,4 +1,4 @@
-node-amqpsnoop v0.0.1
+node-amqpsnoop v0.2.0
 ==============
 
 Overview
@@ -24,6 +24,8 @@ be specified:
                    Valid values are "inspect" (uses sys.inspect, the)
                    default), "json" and "json0" (JSON with no
                    indentation).
+
+    -x exchange    name of exchange to use (default: "amq.topic")
 
 Example: using broker 10.99.99.5, show all AMQP messages sent to any 
 routing key starting with "ca." and whose "ca_subtype" member is not 

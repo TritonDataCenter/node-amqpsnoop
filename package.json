@@ -1,7 +1,7 @@
 {
 	"name": "amqpsnoop",
 	"description": "snoop AMQP messages",
-	"version": "0.0.1",
+	"version": "0.2.0",
 	"repository": {
 		"type": "git",
 		"url": "git://github.com/davepacheco/node-amqpsnoop.git"
